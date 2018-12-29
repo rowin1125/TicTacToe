@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tipcalc",
-    "slug": "tipcalc",
+    "name": "tictactoe",
+    "slug": "tictactoe",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": [

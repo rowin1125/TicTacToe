@@ -42,8 +42,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="tipcalc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tipcalc" type="462c0819:PsiDirectoryNode" />
+              <item name="tictactoe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tictactoe" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,7 +238,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>tipcalc</last-edited>
+          <last-edited>tictactoe</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
